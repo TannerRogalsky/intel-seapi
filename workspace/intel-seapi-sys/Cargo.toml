@@ -22,5 +22,5 @@ version = "0.2.0"
 libc = "^0.2"
 
 [build-dependencies]
-bindgen = "0.43.0"
+bindgen = "0.51.0"
 cmake = "0.1"
